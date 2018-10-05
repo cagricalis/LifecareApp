@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>763656968388-l1atcl16v4r4dbh5u7816l7o3l3vm93n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.763656968388-l1atcl16v4r4dbh5u7816l7o3l3vm93n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZp1a6lGsXJy4J1zpTvRm5DDVV1_kx9hg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>763656968388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cagricalis.Lifecare</string>
+	<key>PROJECT_ID</key>
+	<string>lifecareapp-e0fa3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lifecareapp-e0fa3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:763656968388:ios:3d55c839a811202c</string>
+	<key>DATABASE_URL</key>
+	<string>https://lifecareapp-e0fa3.firebaseio.com</string>
+</dict>
+</plist>
